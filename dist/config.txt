@@ -1,0 +1,11 @@
+Default Folder:
+C:/Users/estef/Downloads
+C:/Users/estef/Documents/Skola_DevOps/Python_Programmering
+File Extensions:
+.pdf
+.ppt
+.pptx
+.rar
+.txt
+.zip
+.sql
