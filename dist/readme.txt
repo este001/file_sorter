@@ -25,4 +25,4 @@ v0.5
 	*Added button to open folders
 
 v0.6
-    *
+    *TODO check date modified so newest file gets moved to the directory. Start program > start dowloading > program takes newest pdf file > moves it to destionation.
